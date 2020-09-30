@@ -1,24 +1,8 @@
-## What's up Dev? How are you? 👋
-
-### 🤓 Who am I?
-
-<p align="center">
-    <a href="https://github.com/wesleyvicen">
-        <img 
-            style="border-radius: 50%;" 
-            src="https://avatars2.githubusercontent.com/u/26713741?s=460&u=efadf46a3d61af925a34c475a79dc2468e8e9c21&v=4" 
-            width="120px;" 
-            alt="Foto">
-        <br/>
-        <sub><b>Wesley Vicente</b></sub>
-    </a>
-</p>
+## 👨🏻‍💻 Wesley Vicente
+---
 </br>
-<h6 align="center">
-    My name is Wesley Vicente, I am majoring in Computer Science and I continue my journey transforming coffee into code, getting closer to Full Stack every day!
-</h6>
 
-<p align="center">
+<p align="left">
     <a href="https://br.linkedin.com/in/wesleyvicen">
         <img 
             alt="Wesley Vicente" 
@@ -41,7 +25,12 @@
     </a>
 </p>
 
----
+### Oops, everything okay?
+
+<h6 align="left">
+    My name is Wesley Vicente, I am majoring in Computer Science and I continue my journey transforming coffee into code, getting closer to Full Stack every day!
+</h6>
+
 ### 🛠 Technologies
 
 <p align="center">
@@ -71,73 +60,73 @@ Technologies and tools I know:
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-css3.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-css3.svg" 
             alt="logo CSS3"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-html5.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-html5.svg" 
             alt="logo HTML5"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://reactjs.org/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react.svg"
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-react.svg"
             alt="logo React"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://reactnative.dev/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react-native.svg"
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-react-native.svg"
             alt="logo React native"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://nodejs.org/en/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nodejs.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-nodejs.svg" 
             alt="logo Node.js"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://expressjs.com/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-express2.png" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-express2.png" 
             alt="logo express"
             width="100px">
     </a>
     <a href="https://adonisjs.com/docs/4.1/installation">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-adonisJS.jpg" 
+            src="https://raw.githubusercontent.com/wesleyvicen/wesleyvicen/master/assets/icon-adonisJS.jpg" 
             alt="logo adonisJS"
             width="100px">
     </a>
     </br>
     <a href="https://git-scm.com/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-git.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-git.svg" 
             alt="logo git"
             width="50px">
     </a>
     <a href="https://www.postgresql.org/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-postgresql.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-postgresql.svg" 
             alt="logo postgreSQL"
             width="50px">
     </a>
     <a href="https://github.com/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-gitHub2.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-gitHub2.svg" 
             alt="logo Github"
             width="50px">
     </a>
     <a href="https://code.visualstudio.com/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-vscode.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-vscode.svg" 
             alt="logo Vscode"
             width="50px">
     </a>
@@ -147,27 +136,27 @@ Technologies and tools that I am learning at the moment:
     <p align="center">
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-springboot.png" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-springboot.png" 
             alt="logo Spring-boot"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-ecmascript6.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-ecmascript6.svg" 
             alt="logo ECS6"
             width="50px"
             style="border-radius: 8px;">
     </a>
      <a href="https://www.typescriptlang.org/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-typescript.png"
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-typescript.png"
             alt="logo Typescript"
             width="56px">
     </a>
      <a href="https://www.figma.com/">
         <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-figma.svg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-figma.svg" 
             alt="logo Figma"
             width="50px">
     </a>
