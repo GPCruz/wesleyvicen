@@ -48,7 +48,7 @@ Technologies and tools I know:
         <img 
             src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-mysql.svg" 
             alt="logo Mysql"
-            width="50px"
+            width="80px"
             style="border-radius: 8px;">
     </a>
     <a href="https://www.javascript.com/">
@@ -101,9 +101,9 @@ Technologies and tools I know:
     </a>
     <a href="https://adonisjs.com/docs/4.1/installation">
         <img 
-            src="https://raw.githubusercontent.com/wesleyvicen/wesleyvicen/master/assets/icon-adonisJS.jpg" 
+            src="https://github.com/wesleyvicen/wesleyvicen/blob/master/assets/icon-adonisJS.jpg" 
             alt="logo adonisJS"
-            width="100px">
+            width="50px">
     </a>
     </br>
     <a href="https://git-scm.com/">
